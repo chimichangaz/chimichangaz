@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br><br>👋 Hi there! I’m Akash, a passionate engineering student currently in my third year at Dayanand Sagar College of Engineering. I love exploring the world of programming, particularly in Python, and I'm diving into web development and machine learning. <br><br>💻 I enjoy creating projects that combine my interests in technology and innovation, especially in the field of machine learning.<br><br>🌱 I’m always eager to learn and collaborate on exciting projects, so feel free to connect or check out my repositories!<br><br>
+<br><br><br>👋 Hi there! I’m Akash, a passionate engineering student currently in my third year at Dayanand Sagar College of Engineering. I love exploring the world of programming, particularly in Python, and I'm diving into data analytics and machine learning. <br><br>💻 I enjoy creating projects that combine my interests in technology and innovation, especially in the field of machine learning.<br><br>🌱 I’m always eager to learn and collaborate on exciting projects, so feel free to connect or check out my repositories!<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-arka-b-a529652aa/)
